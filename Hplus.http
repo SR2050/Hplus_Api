@@ -1,0 +1,6 @@
+@Hplus_HostAddress = http://localhost:5178
+
+GET {{Hplus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
